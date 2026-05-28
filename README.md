@@ -34,7 +34,6 @@ The platform aims to:
 - HTML5
 - CSS3
 - JavaScript
-- Bootstrap / Tailwind CSS
 
 ## Backend
 - Node.js
@@ -44,7 +43,6 @@ The platform aims to:
 - MySQL
 
 ## APIs & Tools
-- Google Maps API
 - JWT Authentication
 - bcrypt
 - dotenv
